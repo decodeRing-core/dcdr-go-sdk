@@ -9,6 +9,9 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Example Program](#-example-program)
+- [Feedback & Contributions](#-feedback--contributions)
+- [License](#-license)
+- [Contacts](#-contacts)
 
 ## 🚀 About
 
