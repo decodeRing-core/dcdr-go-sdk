@@ -63,4 +63,29 @@ Here is a list of the available functions:
 
 There is an example go program in the `example/` folder.
 
+## 🤝 Feedback & Contributions
+
+We've made every effort to provide documentation to help users stand up a test instance of decodeRing. However, if you have problems please reach out!
+
+> [!IMPORTANT]
+> Whether you have feedback on features, have encountered a bug or have suggestions for enhancements, we're eager to hear from you! Your insights help us make decodeRing more robust and usable.
+
+Please feel free to contribute by [submitting an issue](https://github.com/decodeRing-core/core-server/issues) or [joining the discussions](https://github.com/orgs/decodeRing-core/discussions). Every contribution helps us improve decodeRing.
+
+[Back to top](#top)
+
+## 📃 License
+Licensed under the Apache License, Version 2.0.
+
+[Back to top](#top)
+
+## 💬 Contacts
+
+For more details about our products, services, or any general information regarding the decodeRing Server, feel free to reach out to us. We are here to provide support and answer any questions you may have. Below are the best ways to contact our team:
+
+- **Email**: Send us your inquiries or support requests at [support@decodering.org](mailto:support@decodering.org).
+- **Website**: Visit the official decodeRing website for more information: [decodering.org](https://decodering.org).
+
+We look forward to assisting you and ensuring your experience with our product is successful and enjoyable!
+
 [Back to top](#top)
